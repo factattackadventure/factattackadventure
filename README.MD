@@ -32,6 +32,6 @@
  
 <p align="center"
   
- [⌞_PRNS](https://en.pronouns.page/@kasperz) 💡 [ATA](https://factattackadventures.atabook.org/) ![](https://files.catbox.moe/ctujfd.webp)   [CRD](https://factyboy.carrd.co/)  💡  [BYI_⌟](https://rentry.co/factattackadventurez)  
+ [⌞_PRNS](https://en.pronouns.page/@kasperz) 💡 [BFYI](https://rentry.co/factattackadventurez) ![](https://files.catbox.moe/ctujfd.webp)   [CRD](https://factyboy.carrd.co/)  💡  [ATA_⌟](https://factattackadventures.atabook.org/)  
 
 <p align="center"
