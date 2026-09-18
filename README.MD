@@ -30,7 +30,7 @@
 
 <p align="center"
 
-$${\\color{blue}Feeling} \space {\\color{blue}Curious \space ?}$$
+[Feeling Curious?](https://www.youtube.com/watch?v=QMOuVBiS9mw)  
 
 <p align="center"
 
