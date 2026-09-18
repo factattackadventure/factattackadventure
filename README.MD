@@ -30,7 +30,7 @@
 
 <p align="center"
 
-[Feeling Curious?](https://www.youtube.com/watch?v=QMOuVBiS9mw)  
+[Stay Curious!](https://www.youtube.com/watch?v=QMOuVBiS9mw)  
 
 <p align="center"
 
