@@ -30,7 +30,7 @@
 
 <p align="center"
 
-$${\\color{blue}Feeling} \space {\\color{blue}Curious? \space text}$$
+$${\\color{blue}Feeling} \space {\\color{blue}Curious \space ?}$$
 
  
 <p align="center"
