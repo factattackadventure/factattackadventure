@@ -35,5 +35,6 @@ $${\\color{blue}Feeling} \space {\\color{blue}Curious \space ?}$$
 
 
 
-<p align="center"[⌞PRNS](https://en.pronouns.page/@kasperz) 💡 [BFYI](https://rentry.co/factattackadventurez) ![](https://files.catbox.moe/ctujfd.webp)   [CRD](https://factyboy.carrd.co/)  💡  [ATA⌟](https://factattackadventures.atabook.org/)  
+<p align="center"
+[⌞PRNS](https://en.pronouns.page/@kasperz) 💡 [BFYI](https://rentry.co/factattackadventurez) ![](https://files.catbox.moe/ctujfd.webp)   [CRD](https://factyboy.carrd.co/)  💡  [ATA⌟](https://factattackadventures.atabook.org/)  
 <p align="center"
