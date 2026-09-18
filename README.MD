@@ -32,6 +32,8 @@
 
 $${\\color{blue}Feeling} \space {\\color{blue}Curious \space ?}$$
 
+<p align="center"
+
  
 <p align="center"
 
