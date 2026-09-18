@@ -29,8 +29,8 @@
 <img width="400" height="5" alt="tumblr_91c6f1ea2df28283c35a111ab92bdb14_441bd919_400" src="https://github.com/user-attachments/assets/a4149672-b48f-43d9-bdf9-07fc1263778a" />
 
 <p align="center"
+$${\\color{blue}Feeling} \space {\\color{blue}Curious? \space text}$$
 
-$\color{blue}{{Feeling Curious?}}$
  
 <p align="center"
 
